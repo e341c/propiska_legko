@@ -6,7 +6,6 @@ import InfoDistricts from "@/components/infoDistricts"
 import InfoPros from "@/components/infoPros"
 import InfoNeed from "@/components/infoNeed"
 import InfoHead from "@/components/infoHead"
-import InfoPrice from "@/components/infoPrice"
 
 export default function Home() {
     return (
@@ -17,7 +16,6 @@ export default function Home() {
                 <InfoDistricts />
                 <InfoNeed />
                 <InfoPros />
-                <InfoPrice />
             </section>
             <Footer />
         </main>

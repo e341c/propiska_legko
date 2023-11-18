@@ -8,9 +8,10 @@ export default function Header() {
                 <NavbarToggle aria-controls="basic-navbar-nav" className="white-filter" />
                 <NavbarCollapse id="basic-navbar-nav">
                     <Nav className="ms-auto align-items-center">
-                        <NavLink href={"tel:+77017156363"} className="text-light fs-5">+7 (701) 715-63-63</NavLink>
+                        <NavLink href={"tel:+77017158540"} className="text-light fs-5">+7 (701) 715-85-40</NavLink>
+                        
                         <Button variant="light">
-                            <NavLink href={"https://api.whatsapp.com/send?phone=77017156363"} className="color-pr p-0 fw-bold">Whats App</NavLink>
+                            <NavLink href={"https://api.whatsapp.com/send?phone=77017158540"} className="color-pr p-0 fw-bold">Whats App</NavLink>
                         </Button>
                     </Nav>
                 </NavbarCollapse>

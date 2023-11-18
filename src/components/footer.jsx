@@ -11,10 +11,10 @@ export default function Footer() {
                     </div>
                     <div className="col">
                         <div className="d-flex align-items-center row gap-3">
-                            <Link href={"tel:+77017156363"} className="col btn btn-light fw-semibold color-pr px-4">
+                            <Link href={"tel:+77017158540"} className="col btn btn-light fw-semibold color-pr px-4">
                                 Позвонить
                             </Link>
-                            <Link href={"https://api.whatsapp.com/send?phone=77017156363"} className="col btn btn-light fw-semibold color-pr px-4">
+                            <Link href={"https://api.whatsapp.com/send?phone=77017158540"} className="col btn btn-light fw-semibold color-pr px-4">
                                 Whats App
                             </Link>
                         </div>

@@ -3,7 +3,7 @@ import check_mark from "../../public/icons/circle-check-regular.svg"
 import map_pin from "../../public/icons/map-pin-solid.svg"
 
 export default function InfoDistricts() {
-    const districts = ["Бостандыкский район", "Медеуский район", "Ауэзовский район"]
+    const districts = ["Медеуский район", "Ауэзовский район"]
     const reasons = ["Самые низкие цены по Алматы", "Работаем без посредников", "Бесплатное сопровождение", "Прописка временная", "Прописка постоянная"]
 
     return (
