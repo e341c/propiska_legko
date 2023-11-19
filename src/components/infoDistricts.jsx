@@ -9,7 +9,7 @@ export default function InfoDistricts() {
     return (
         <section className="mb-5">
             <div className="row gap-3">
-                <div className="col-sm bg-blue-light rounded text-light py-3 px-4 shadow">
+                {/* <div className="col-sm bg-blue-light rounded text-light py-3 px-4 shadow">
                     <h4 className="mt-2">Наши районы:</h4>
                     {districts.map((item) => (
                         <div className="d-flex align-items-center my-3">
@@ -17,7 +17,7 @@ export default function InfoDistricts() {
                             <div className="ms-2 fs-5 fw-medium">{item}</div>
                         </div>
                     ))}
-                </div>
+                </div> */}
 
                 <div className="col-sm bg-blue-light rounded text-light py-3 px-4 shadow">
                     <h4 className="mt-2">Наши плюсы:</h4>
